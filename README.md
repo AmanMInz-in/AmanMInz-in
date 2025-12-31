@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/Ml projects<br>👯 I’m looking to collaborate on Real World Projects<br>🌱 I’m currently learning Python Development<br>💬 Ask me about<br>⚡ Fun fact I'm First AI/ML Student
+🔭 I’m Aman Minz <br>👯 I’m looking to collaborate real world projects <br>🌱 I’m currently learning Python Development<br>⚡ Fun fact I'm First Year AI/ML Student
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AmanMInz-in&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMInz-in&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmanMInz-in&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -21,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AmanMInz-in&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created by Aman Minz -->
