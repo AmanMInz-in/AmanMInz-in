@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Aman Minz <br>👯 I’m looking to collaborate real world projects <br>🌱 I’m currently learning Python Development<br>⚡ Fun fact I'm First Year AI/ML Student
+🔭 I’m Aman Minz a passionate collage student <br>👯 I’m looking to collaborate with real world projects <br>🌱 I’m currently learning Python Development<br>⚡ Fun fact I produce Music too..(Aminz Music)
 
 
 ## 🌐 Socials:
